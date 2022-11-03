@@ -1,6 +1,6 @@
 %define oname flat-remix
 Name:           flat-remix-icon-theme
-Version:        20220304
+Version:        20220525
 Release:        1
 License:        GPLv3
 Summary:        Flat Remix icon theme
