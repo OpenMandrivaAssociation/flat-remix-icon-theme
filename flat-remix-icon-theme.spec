@@ -1,7 +1,7 @@
 %define oname flat-remix
 Name:           flat-remix-icon-theme
-Version:        20220525
-Release:        2
+Version:        20240201
+Release:        1
 License:        GPLv3
 Summary:        Flat Remix icon theme
 Url:            https://drasite.com/flat-remix
