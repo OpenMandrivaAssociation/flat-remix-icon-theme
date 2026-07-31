@@ -1,6 +1,6 @@
 %define oname flat-remix
 Name:           flat-remix-icon-theme
-Version:        20240201
+Version:        20250709
 Release:        1
 License:        GPLv3
 Summary:        Flat Remix icon theme
@@ -15,7 +15,7 @@ Flat Remix is an icon theme inspired by material design.
 It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 
 %prep
-%autosetup -n %{oname}-%{version} -p1
+%autosetup -n flat-remix-20250709 -p1
 
 %install
 %make_install
